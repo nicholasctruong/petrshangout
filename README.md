@@ -4,7 +4,7 @@ _"Who's the Anteater with 3 wives? Peter the Cheater!"_ _"Why are fish easy to w
 
 Petr's Hangout is a chrome extension intended to lighten the mood for stressed out anteaters :) With it, users can access Petr cartoons, UCI-related jokes, dad jokes, and Kanye quotes at any time.
 
-To use, find the extension in the chrome store under the name "Petr's Hangout." From there, have fun using it!
+To use, find the extension in the chrome store under the name "Petr's Hangout." Once downloaded, click on the extension at any time and have fun using it!
 
 Devloped, designed, and planned by
 - Kevin James Hilton
