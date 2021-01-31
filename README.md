@@ -12,4 +12,3 @@ Contributors
 - Alyssa Rodriguez (design)
 - Nicholas Truong (development and design)
 
-Project for HackUCI 2021
