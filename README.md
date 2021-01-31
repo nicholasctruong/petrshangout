@@ -11,3 +11,5 @@ Devloped, designed, and planned by
 - Sanjit Kura
 - Alyssa Rodriguez
 - Nicholas Truong
+
+Project for HackUCI 2021
