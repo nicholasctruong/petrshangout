@@ -6,9 +6,5 @@ Petr's Hangout is a chrome extension intended to lighten the mood for stressed o
 
 To use, find the extension in the chrome store under the name "Petr's Hangout." Once downloaded, click on the extension at any time and have fun using it!
 
-Contributors:
-- Kevin James Hilton (development)
-- Sanjit Kura (planning and documentation)
-- Alyssa Rodriguez (design)
-- Nicholas Truong (development and design)
+Contributors: Kevin James Hilton (development), Sanjit Kura (planning and documentation), Alyssa Rodriguez (design), Nicholas Truong (development and design)
 
